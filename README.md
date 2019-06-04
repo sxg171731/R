@@ -1,2 +1,2 @@
 ## R Repository
-![R]("R.png")
+![](R.png?raw=true)
